@@ -1,0 +1,725 @@
+{
+    "response": "y",
+    "error": false,
+    "message": "Success",
+    "result_array": [
+        {
+            "ID": "2",
+            "name": "NOTE BOOK",
+            "products": [
+                {
+                    "ID": "23",
+                    "name": "SINGLE LINE NOTEBOOK - PACK OF 3 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "60.06",
+                    "actual_price": "66",
+                    "discount": "9",
+                    "qty": "496",
+                    "images": [
+                        {
+                            "img_id": "23",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425785201.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "24",
+                    "name": "SINGLE LINE NOTE BOOK - PACK OF 6 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "114.84",
+                    "actual_price": "132",
+                    "discount": "13",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "24",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425881702.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "27",
+                    "name": "SINGLE LINE NOTE BOOK - PACK OF 12 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "213.84",
+                    "actual_price": "264",
+                    "discount": "19",
+                    "qty": "498",
+                    "images": [
+                        {
+                            "img_id": "27",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425898203.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "28",
+                    "name": "SINGLE LINE NOTE BOOK - PACK OF 3 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "105.45",
+                    "actual_price": "111",
+                    "discount": "5",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "28",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425918404.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "29",
+                    "name": "SINGLE LINE NOTE BOOK - PACK OF 6 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "193.14",
+                    "actual_price": "222",
+                    "discount": "13",
+                    "qty": "498",
+                    "images": [
+                        {
+                            "img_id": "29",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425952105.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "30",
+                    "name": "SINGLE LINE NOTE BOOK - PACK OF 12 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "359.64",
+                    "actual_price": "444",
+                    "discount": "19",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "30",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425958606.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "31",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 3 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "60.06",
+                    "actual_price": "66",
+                    "discount": "9",
+                    "qty": "5000",
+                    "images": [
+                        {
+                            "img_id": "31",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425984907.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "32",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 6 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "114.84",
+                    "actual_price": "132",
+                    "discount": "13",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "32",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425992008.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "33",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 12 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "213.84",
+                    "actual_price": "264",
+                    "discount": "19",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "33",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162425998609.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "34",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 3 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "105.45",
+                    "actual_price": "111",
+                    "discount": "5",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "34",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426027210.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "35",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 6 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "193.14",
+                    "actual_price": "222",
+                    "discount": "13",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "35",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426033811.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "36",
+                    "name": "DOUBLE LINE NOTE BOOK - PACK OF 12 (180 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "359.64",
+                    "actual_price": "444",
+                    "discount": "19",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "36",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426038712.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "37",
+                    "name": "FOUR LINE NOTE BOOK - PACK OF 3 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "105.45",
+                    "actual_price": "111",
+                    "discount": "5",
+                    "qty": "496",
+                    "images": [
+                        {
+                            "img_id": "37",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426047113.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "38",
+                    "name": "FOUR LINE NOTE BOOK - PACK OF 6 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "114.84",
+                    "actual_price": "132",
+                    "discount": "13",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "38",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426053514.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "39",
+                    "name": "FOUR LINE NOTE BOOK - PACK OF 12 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "213.84",
+                    "actual_price": "264",
+                    "discount": "19",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "39",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426071215.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "40",
+                    "name": "MEDIUM SQURE NOTE BOOK - PACK OF 3 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "60.06",
+                    "actual_price": "66",
+                    "discount": "9",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "40",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426099219.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "41",
+                    "name": "BIG SQURE NOTE BOOK - PACK OF 3 (80 pages)",
+                    "category_name": "NOTE BOOK",
+                    "final_price": "60.06",
+                    "actual_price": "66",
+                    "discount": "9",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "41",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426108523.JPG"
+                        }
+                    ],
+                    "variant": []
+                }
+            ]
+        },
+        {
+            "ID": "3",
+            "name": "LONG BOOK",
+            "products": [
+                {
+                    "ID": "50",
+                    "name": "LONG BOOK - PACK OF 3 (80 pages)",
+                    "category_name": "LONG BOOK",
+                    "final_price": "78.30",
+                    "actual_price": "90",
+                    "discount": "13",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "50",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426368633.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "51",
+                    "name": "LONG BOOK - PACK OF 6 (80 pages)",
+                    "category_name": "LONG BOOK",
+                    "final_price": "147.60",
+                    "actual_price": "180",
+                    "discount": "18",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "51",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426375334.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "52",
+                    "name": "LONG BOOK - PACK OF 12 (80 pages)",
+                    "category_name": "LONG BOOK",
+                    "final_price": "244.80",
+                    "actual_price": "360",
+                    "discount": "32",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "52",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426398135.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "53",
+                    "name": "LONG BOOK - PACK OF 3 (180 pages)",
+                    "category_name": "LONG BOOK",
+                    "final_price": "132.30",
+                    "actual_price": "147",
+                    "discount": "10",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "53",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426413536.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "54",
+                    "name": "LONG BOOK - PACK OF 12 (180 pages)",
+                    "category_name": "LONG BOOK",
+                    "final_price": "411.60",
+                    "actual_price": "588",
+                    "discount": "30",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "54",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426424637.JPG"
+                        }
+                    ],
+                    "variant": []
+                }
+            ]
+        },
+        {
+            "ID": "4",
+            "name": "A4 LONG BOOK",
+            "products": [
+                {
+                    "ID": "57",
+                    "name": "A4 LONG BOOK - PACK OF 3 (140 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "105.00",
+                    "actual_price": "150",
+                    "discount": "30",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "57",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427518038.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "58",
+                    "name": "A4 LONG BOOK - PACK OF 6 (140 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "195.00",
+                    "actual_price": "300",
+                    "discount": "35",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "58",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427530939.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "59",
+                    "name": "A4 LONG BOOK - PACK OF 12 (140 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "360.00",
+                    "actual_price": "600",
+                    "discount": "40",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "59",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427540140.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "60",
+                    "name": "A4 LONG BOOK - PACK OF 3 (260 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "191.70",
+                    "actual_price": "270",
+                    "discount": "29",
+                    "qty": "498",
+                    "images": [
+                        {
+                            "img_id": "60",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427551641.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "61",
+                    "name": "A4 LONG BOOK - PACK OF 6 (260 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "378.00",
+                    "actual_price": "540",
+                    "discount": "30",
+                    "qty": "499",
+                    "images": [
+                        {
+                            "img_id": "61",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427558142.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "62",
+                    "name": "A4 LONG BOOK - PACK OF 6 (260 pages)",
+                    "category_name": "A4 LONG BOOK",
+                    "final_price": "723.60",
+                    "actual_price": "1080",
+                    "discount": "33",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "62",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427571343.JPG"
+                        }
+                    ],
+                    "variant": []
+                }
+            ]
+        },
+        {
+            "ID": "5",
+            "name": "A5 LONG BOOK",
+            "products": [
+                {
+                    "ID": "44",
+                    "name": "A5 LONG BOOK - PACK OF 3 (100 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "127.50",
+                    "actual_price": "150",
+                    "discount": "15",
+                    "qty": "497",
+                    "images": [
+                        {
+                            "img_id": "44",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426182927.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "45",
+                    "name": "A5 LONG BOOK - PACK OF 6 (100 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "144.00",
+                    "actual_price": "192",
+                    "discount": "25",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "45",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426193628.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "46",
+                    "name": "A5 LONG BOOK - PACK OF 12 (100 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "268.80",
+                    "actual_price": "384",
+                    "discount": "30",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "46",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426208729.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "47",
+                    "name": "A5 LONG BOOK - PACK OF 3 (172 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "114.00",
+                    "actual_price": "150",
+                    "discount": "24",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "47",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426223130.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "48",
+                    "name": "A5 LONG BOOK - PACK OF 6 (172 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "210.00",
+                    "actual_price": "300",
+                    "discount": "30",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "48",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426242231.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "49",
+                    "name": "A5 LONG BOOK - PACK OF 12 (172 pages)",
+                    "category_name": "A5 LONG BOOK",
+                    "final_price": "384.00",
+                    "actual_price": "600",
+                    "discount": "36",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "49",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162426250032.JPG"
+                        }
+                    ],
+                    "variant": []
+                }
+            ]
+        },
+        {
+            "ID": "6",
+            "name": "DRAWING BOOK",
+            "products": [
+                {
+                    "ID": "63",
+                    "name": "3A YELLOW DRAWING BOOK - PACK OF 1 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "27.00",
+                    "actual_price": "30",
+                    "discount": "10",
+                    "qty": "497",
+                    "images": [
+                        {
+                            "img_id": "63",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427596444.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "64",
+                    "name": "3A YELLOW DRAWING BOOK - PACK OF 3 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "81.00",
+                    "actual_price": "90",
+                    "discount": "10",
+                    "qty": "498",
+                    "images": [
+                        {
+                            "img_id": "64",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427606145.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "65",
+                    "name": "3A YELLOW DRAWING BOOK - PACK OF 6 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "154.80",
+                    "actual_price": "180",
+                    "discount": "14",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "65",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427611546.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "66",
+                    "name": "4A T.K GREEN DRAWING BOOK - PACK OF 1 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "36.00",
+                    "actual_price": "40",
+                    "discount": "10",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "66",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427648447.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "67",
+                    "name": "4A T.K GREEN DRAWING BOOK - PACK OF 3 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "99.60",
+                    "actual_price": "120",
+                    "discount": "17",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "67",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427652848.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "68",
+                    "name": "4A T.K GREEN DRAWING BOOK - PACK OF 6 (40 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "182.40",
+                    "actual_price": "240",
+                    "discount": "24",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "68",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427658446.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "69",
+                    "name": "4A JOMBO DRAWING BOOK - PACK OF 1 (36 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "42.50",
+                    "actual_price": "50",
+                    "discount": "15",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "69",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427677150.JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "70",
+                    "name": "4A JOMBO DRAWING BOOK - PACK OF 3 (36 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "105.00",
+                    "actual_price": "150",
+                    "discount": "30",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "70",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427682751..JPG"
+                        }
+                    ],
+                    "variant": []
+                },
+                {
+                    "ID": "71",
+                    "name": "4A JOMBO DRAWING BOOK - PACK OF 6 (36 pages)",
+                    "category_name": "DRAWING BOOK",
+                    "final_price": "210.00",
+                    "actual_price": "300",
+                    "discount": "30",
+                    "qty": "500",
+                    "images": [
+                        {
+                            "img_id": "71",
+                            "img_product": "https:\/\/ditrpclicktobuy.com\/img\/Product\/162427687752.JPG"
+                        }
+                    ],
+                    "variant": []
+                }
+            ]
+        }
+    ]
+}
